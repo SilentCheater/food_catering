@@ -1,0 +1,25 @@
+[Order{id=189861, client=Person{firstName='cris', lastName='dora'}, items=[title='Surfer's Granola ', rating=2.5, calories=303, fat=8, protein=16, sodium=157, price=24, title='Stuffed Cornish Hens with Port Sauce ', rating=3.125, calories=892, fat=54, protein=55, sodium=283, price=79, title='Vanilla-Citrus Tea Ring ', rating=3.75, calories=375, fat=4, protein=21, sodium=305, price=49], orderDate=2022-05-25T22:31:29.171659200}, Order{id=380587, client=Person{firstName='cris', lastName='dora'}, items=[title='Stuffed Cornish Hens with Port Sauce ', rating=3.125, calories=892, fat=54, protein=55, sodium=283, price=79, title='Surfer's Granola ', rating=2.5, calories=303, fat=8, protein=16, sodium=157, price=24], orderDate=2022-05-25T22:29:40.679780300}]REPORT
+ Products ordered more than 2 times:
+title='Dark Chocolate Brown Sugar Pound Cake with Chocolate Glaze ', rating=3.75, calories=389, fat=19, protein=5, sodium=120, price=96
+title='Eggplant and Watercress Salad with Sesame ', rating=3.75, calories=184, fat=16, protein=3, sodium=125, price=14
+title='Spiced Pork Tenderloin ', rating=3.75, calories=448, fat=18, protein=66, sodium=178, price=10
+REPORT
+ Clients that have ordered more than 2 times and the total value of the orders is bigger than 100:
+Person{firstName='cris', lastName='dora'}
+Person{firstName='cris', lastName='dora'}
+Person{firstName='cris', lastName='dora'}
+Person{firstName='cris', lastName='dora'}
+Person{firstName='cris', lastName='dora'}
+REPORT
+ Products ordered in day 1 :
+title='Sopa de Aguacate ', rating=3.125, calories=191, fat=12, protein=4, sodium=121, price=97 with 1 orders.
+title='Dark Chocolate Brown Sugar Pound Cake with Chocolate Glaze ', rating=3.75, calories=389, fat=19, protein=5, sodium=120, price=96 with 3 orders.
+title='Vanilla-Citrus Tea Ring ', rating=3.75, calories=375, fat=4, protein=21, sodium=305, price=49 with 1 orders.
+title='Eggplant and Watercress Salad with Sesame ', rating=3.75, calories=184, fat=16, protein=3, sodium=125, price=14 with 4 orders.
+title='Stuffed Cornish Hens with Port Sauce ', rating=3.125, calories=892, fat=54, protein=55, sodium=283, price=79 with 2 orders.
+title='Spiced Pork Tenderloin ', rating=3.75, calories=448, fat=18, protein=66, sodium=178, price=10 with 3 orders.
+title='Stir-Fried Grains with Shrimp and Eggs ', rating=4.375, calories=743, fat=51, protein=52, sodium=716, price=49 with 1 orders.
+title='Apricot Tart with Cornmeal Crust ', rating=3.75, calories=547, fat=34, protein=22, sodium=284, price=74 with 1 orders.
+title='Sauteed Shrimp with Lemon-Garlic Butter ', rating=4.375, calories=412, fat=32, protein=24, sodium=968, price=60 with 1 orders.
+title='Surfer's Granola ', rating=2.5, calories=303, fat=8, protein=16, sodium=157, price=24 with 2 orders.
+title='Avocado-Lime Ice Pops ', rating=0.0, calories=259, fat=10, protein=2, sodium=56, price=23 with 1 orders.

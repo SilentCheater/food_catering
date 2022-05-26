@@ -1,0 +1,1 @@
+Order{id=292551, client=Person{firstName='cris', lastName='dora'}, items=[title='Avocado-Lime Ice Pops ', rating=0.0, calories=259, fat=10, protein=2, sodium=56, price=23], orderDate=2022-05-26T02:43:00.607239400}

@@ -1,0 +1,1 @@
+Order{id=449375, client=Person{firstName='cris', lastName='dora'}, items=[title='Braised Baby Onions with Orange Juice and Balsamic Vinegar ', rating=4.375, calories=182, fat=2, protein=9, sodium=14, price=30, title='name1', rating=3.4375, calories=1267, fat=58, protein=76, sodium=588, price=128], orderDate=2022-05-26T08:26:58.501137400}
