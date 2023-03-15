@@ -1,0 +1,2 @@
+# food_catering
+An application for managing the food orders for a catering company.It should be able to receive orders from clients. They will also be able to filter the items from the menu. For all of that, login and register pages will be created. If admin logs in or registers, a separate window will be displayed with operations available only for the administrator like adding a product or a composite product
